@@ -23,13 +23,13 @@ Demo - [Netflix-clone](https://kn-netflix-clone.netlify.app/)
 
 ## Screenshots
 
-![Sign-In Page](src/images/Netflix-Sign in page.png)
-_Users can sign in with their Netflix account or use the guest mode._
+![Sign-In Page](https://github.com/namdevkashish/netflix-clone/blob/master/src/images/Netflix-Sign%20in%20page.png)
+_Users can sign in with their Netflix account._
 
-![Main Home Page](src/images/Netflix-Home page.png)
+![Main Home Page](https://github.com/namdevkashish/netflix-clone/blob/master/src/images/Netflix-Home%20page.png)
 _The main home page displays a grid of Netflix original movies and TV shows._
 
-![Trailer Modal](src/images/Netflix-Trailer modal.png)
+![Trailer Modal](https://github.com/namdevkashish/netflix-clone/blob/master/src/images/Netflix-Trailer%20modal.png)
 _When a user clicks on a title, a modal pops up displaying the trailer of the selected title._
 
 ## Usage
