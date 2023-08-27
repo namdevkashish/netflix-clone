@@ -3,7 +3,7 @@
 ![Netflix Clone](src/images/Netflix-Banner.png)
 
 This project is a Netflix clone built using ReactJS, designed to showcase the main features of the Netflix platform. It includes a sign-in page and a main home page where users can play trailers of Netflix original movies and shows.
-Demo - [Netflix-clone](https://64eb31e2edd7a75446f5976f--kn-netflix-clone.netlify.app/)
+Demo - [Netflix-clone](https://kn-netflix-clone.netlify.app/)
 
 ## Table of Contents
 
