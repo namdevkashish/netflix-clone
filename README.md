@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Netflix Clone ReactJS Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Netflix Clone](src/images/Netflix-Banner.png)
 
-## Available Scripts
+This project is a Netflix clone built using ReactJS, designed to showcase the main features of the Netflix platform. It includes a sign-in page and a main home page where users can play trailers of Netflix original movies and shows.
+Demo - [Netflix-clone](https://64eb31e2edd7a75446f5976f--kn-netflix-clone.netlify.app/)
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Usage](#usage)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Sign-In Page:** Users can sign in by clicking on 'Watch Free For 30 Days'.
 
-### `npm test`
+- **Main Home Page:** After signing in, users are directed to the main home page which displays a collection of Netflix original movies and TV shows.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Trailer Playback:** Each movie or TV show item on 'Netflix Originals' has a clickable element that opens a modal window. This modal displays the trailer of the selected title fetched from a source like YouTube.
 
-### `npm run build`
+- **Responsive Design:** The user interface is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Sign-In Page](src/images/Netflix-Sign in page.png)
+_Users can sign in with their Netflix account or use the guest mode._
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Main Home Page](src/images/Netflix-Home page.png)
+_The main home page displays a grid of Netflix original movies and TV shows._
 
-### `npm run eject`
+![Trailer Modal](src/images/Netflix-Trailer modal.png)
+_When a user clicks on a title, a modal pops up displaying the trailer of the selected title._
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Usage
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Sign in on Netflix by clicking on 'Watch Free For 30 Days'.
+- Browse through the collection of Netflix original movies and TV shows on the main home page.
+- Click on a title to open a modal displaying the trailer of the selected title.
+- Enjoy the seamless trailer playback experience.
